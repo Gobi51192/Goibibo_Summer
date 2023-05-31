@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-30T22:24:37 IST" name="Default suite" finished-at="2023-05-30T22:25:01 IST" duration-ms="24160">
+    <groups>
+    </groups>
+    <test started-at="2023-05-30T22:24:37 IST" name="Default test" finished-at="2023-05-30T22:25:01 IST" duration-ms="24160">
+      <class name="com.Goibibo_Summer.GoibiboRunner">
+        <test-method signature="ApplicationLaunch()[pri:1, instance:com.Goibibo_Summer.GoibiboRunner@1ed4ae0f]" started-at="2023-05-30T22:24:37 IST" name="ApplicationLaunch" finished-at="2023-05-30T22:24:42 IST" duration-ms="5293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplicationLaunch -->
+        <test-method signature="orgin()[pri:2, instance:com.Goibibo_Summer.GoibiboRunner@1ed4ae0f]" started-at="2023-05-30T22:24:42 IST" name="orgin" finished-at="2023-05-30T22:24:43 IST" duration-ms="729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orgin -->
+        <test-method signature="destination()[pri:3, instance:com.Goibibo_Summer.GoibiboRunner@1ed4ae0f]" started-at="2023-05-30T22:24:43 IST" name="destination" finished-at="2023-05-30T22:24:44 IST" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destination -->
+        <test-method signature="dataOfJourny()[pri:4, instance:com.Goibibo_Summer.GoibiboRunner@1ed4ae0f]" started-at="2023-05-30T22:24:44 IST" name="dataOfJourny" finished-at="2023-05-30T22:24:44 IST" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataOfJourny -->
+        <test-method signature="classOfJourny()[pri:5, instance:com.Goibibo_Summer.GoibiboRunner@1ed4ae0f]" started-at="2023-05-30T22:24:44 IST" name="classOfJourny" finished-at="2023-05-30T22:24:45 IST" duration-ms="634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classOfJourny -->
+        <test-method signature="searchForFlights()[pri:6, instance:com.Goibibo_Summer.GoibiboRunner@1ed4ae0f]" started-at="2023-05-30T22:24:45 IST" name="searchForFlights" finished-at="2023-05-30T22:25:01 IST" duration-ms="16488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForFlights -->
+      </class> <!-- com.Goibibo_Summer.GoibiboRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
